@@ -1,6 +1,6 @@
 # ST327 Market Research Submissions
 
-*These submissions are based on summative coursework(s) and project(s) which were submitted to the London School of Economics and Political Science (LSE) as part of the ST326 Financial Statistics course during my BSc Data Science in 2025.*
+*These submissions are based on summative coursework(s) and project(s) which were submitted to the London School of Economics and Political Science (LSE) as part of the ST327 Market Research course during my BSc Data Science in 2025.*
 
 
 **Contents:**
