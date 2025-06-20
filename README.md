@@ -5,8 +5,8 @@
 
 **Contents:**
 
-1. Conducting market research for Spotify<sup>[[1]]()</sup>
-2. Creating a market research proposal for Greggs<sup>[[2]]()</sup>
+1. Conducting market research for Spotify<sup>[[1]](https://github.com/Oliver-Liles/ST327_Market_Research_submissions/tree/main/1_Spotify)</sup>
+2. Creating a market research proposal for Greggs<sup>[[2]](https://github.com/Oliver-Liles/ST327_Market_Research_submissions/tree/main/2_Greggs)</sup>
 
 
 Course Information for ST327 can be found here:
